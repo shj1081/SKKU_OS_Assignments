@@ -79,6 +79,6 @@
   mmap(0, 8192, PROT_READ | MAP_ANONYMOUS | MAP_POPULATE, -1, 0);
   ```
 
-### Score
+## Score
 
 84/100
