@@ -6,7 +6,7 @@
 - based on xv6
 - PA1 is integrated in PA2
 
-### Projects Included
+## Projects Included
 
 1. **OS PA2: CPU Scheduling**
    - Implements the Completely Fair Scheduler (CFS) on xv6.
